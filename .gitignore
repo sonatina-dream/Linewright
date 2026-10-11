@@ -1,0 +1,4 @@
+/target
+.DS_Store
+# Local tool state (not part of the project)
+.opencode/
