@@ -264,6 +264,12 @@ packaging/third-party-licenses.sh         # needs: cargo install --locked cargo-
 
 Folding is based on indentation rather than on each language's grammar.
 
+## Support
+
+If this app is useful to you, you can buy me a beer. Thank you! 🍺
+
+[![Buy me a beer](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20beer&emoji=%F0%9F%8D%BA&slug=sonatina_dream&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/sonatina_dream)
+
 ## License
 
 Licensed under either of
